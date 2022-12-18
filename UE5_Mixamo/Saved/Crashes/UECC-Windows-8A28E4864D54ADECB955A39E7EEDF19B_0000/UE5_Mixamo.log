@@ -1,0 +1,1684 @@
+﻿Log file open, 08/25/22 21:19:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16068)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UE5_Mixamo
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:\UE5_Mixamo\UE5_Mixamo.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="e0e8c94a4e727b1b844432816bc5fb3c"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 2.012626
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8A28E4864D54ADECB955A39E7EEDF19B
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading IOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.26-01.19.35:499][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.26-01.19.35:500][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.26-01.19.35:503][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.26-01.19.35:504][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.26-01.19.35:504][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.26-01.19.35:504][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.26-01.19.35:569][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.26-01.19.35:569][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.26-01.19.35:791][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.26-01.19.35:791][  0]LogD3D12RHI: Adapter has 12142MB of dedicated video memory, 0MB of dedicated system memory, and 32714MB of shared system memory, 1 output[s]
+[2022.08.26-01.19.35:797][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.26-01.19.35:797][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 32714MB of shared system memory, 0 output[s]
+[2022.08.26-01.19.35:797][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.26-01.19.35:797][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.26-01.19.35:798][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.26-01.19.35:799][  0]LogHAL: Display: Platform has ~ 64 GB [68607770624 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.26-01.19.35:799][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.26-01.19.35:799][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.08.26-01.19.35:799][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.08.26-01.19.35:801][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.08.26-01.19.35:801][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.08.26-01.19.35:801][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.08.26-01.19.35:801][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.26-01.19.35:804][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.26-01.19.35:804][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE5_Mixamo/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.26-01.19.35:806][  0]LogInit: Computer: DESKTOP-NGK9C6K
+[2022.08.26-01.19.35:806][  0]LogInit: User: tcma
+[2022.08.26-01.19.35:806][  0]LogInit: CPU Page size=4096, Cores=10
+[2022.08.26-01.19.35:806][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.26-01.19.35:806][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2022.08.26-01.19.35:806][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.26-01.19.35:806][  0]LogMemory: Process Physical Memory: 287.58 MB used, 296.87 MB peak
+[2022.08.26-01.19.35:806][  0]LogMemory: Process Virtual Memory: 261.01 MB used, 261.01 MB peak
+[2022.08.26-01.19.35:806][  0]LogMemory: Physical Memory: 11031.92 MB used,  54397.55 MB free, 65429.47 MB total
+[2022.08.26-01.19.35:806][  0]LogMemory: Virtual Memory: 13917.55 MB used,  61239.91 MB free, 75157.47 MB total
+[2022.08.26-01.19.35:806][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.26-01.19.35:811][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.26-01.19.35:903][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.26-01.19.35:905][  0]LogInit: Using OS detected language (en-US).
+[2022.08.26-01.19.35:905][  0]LogInit: Using OS detected locale (en-US).
+[2022.08.26-01.19.35:921][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.08.26-01.19.36:117][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.26-01.19.36:151][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.26-01.19.36:151][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.08.26-01.19.36:151][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.08.26-01.19.36:151][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.26-01.19.36:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.26-01.19.36:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.26-01.19.37:259][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.26-01.19.37:262][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.08.26-01.19.37:262][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.26-01.19.37:412][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.26-01.19.37:467][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.26-01.19.37:473][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.26-01.19.37:483][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.26-01.19.37:504][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.26-01.19.37:504][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.26-01.19.37:595][  0]LogD3D12RHI:     GPU DeviceId: 0x2504 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.26-01.19.37:595][  0]LogWindows: Attached monitors:
+[2022.08.26-01.19.37:595][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.08.26-01.19.37:595][  0]LogWindows: Found 1 attached monitors.
+[2022.08.26-01.19.37:595][  0]LogWindows: EnumDisplayDevices:
+[2022.08.26-01.19.37:595][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.08.26-01.19.37:596][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.08.26-01.19.37:596][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.26-01.19.37:596][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.26-01.19.37:596][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.08.26-01.19.37:596][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2022.08.26-01.19.37:596][  0]LogD3D12RHI:   Driver Version: 516.59 (internal:31.0.15.1659, unified:516.59)
+[2022.08.26-01.19.37:596][  0]LogD3D12RHI:      Driver Date: 6-23-2022
+[2022.08.26-01.19.37:596][  0]LogRHI: Texture pool is 7165 MB (70% of 10236 MB)
+[2022.08.26-01.19.37:596][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.26-01.19.37:596][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.26-01.19.37:625][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.08.26-01.19.37:663][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UE5_Mixamo/UE5_Mixamo.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5_Mixamo/Intermediate/TurnkeyReport_0.log" -log="D:/UE5_Mixamo/Intermediate/TurnkeyLog_0.log" -project="D:/UE5_Mixamo/UE5_Mixamo.uproject"  -platform=all'
+[2022.08.26-01.19.37:664][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UE5_Mixamo/UE5_Mixamo.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UE5_Mixamo/Intermediate/TurnkeyReport_0.log" -log="D:/UE5_Mixamo/Intermediate/TurnkeyLog_0.log" -project="D:/UE5_Mixamo/UE5_Mixamo.uproject"  -platform=all" ]
+[2022.08.26-01.19.37:770][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.26-01.19.37:850][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.08.26-01.19.37:850][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.26-01.19.37:850][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.26-01.19.37:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.26-01.19.37:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.26-01.19.37:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.26-01.19.37:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.26-01.19.37:951][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.26-01.19.37:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.26-01.19.37:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.26-01.19.37:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.26-01.19.37:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.26-01.19.37:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.26-01.19.37:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.26-01.19.37:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.26-01.19.37:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.26-01.19.37:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.26-01.19.38:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.26-01.19.38:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.26-01.19.38:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.26-01.19.38:025][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.26-01.19.38:025][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.26-01.19.38:085][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.26-01.19.38:098][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.26-01.19.38:098][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.26-01.19.38:098][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.26-01.19.38:098][  0]LogTargetPlatformManager:   PCM
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager:   BINKA
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager:   OGG
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.26-01.19.38:112][  0]LogTargetPlatformManager:   OPUS
+[2022.08.26-01.19.38:368][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.26-01.19.38:399][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.26-01.19.38:399][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.26-01.19.38:400][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.26-01.19.38:419][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.26-01.19.38:420][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.26-01.19.38:420][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.26-01.19.38:423][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5_Mixamo/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.26-01.19.38:426][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.26-01.19.38:427][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UE5_Mixamo/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.26-01.19.38:430][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.26-01.19.38:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE5_Mixamo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.26-01.19.38:434][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.26-01.19.38:434][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE5_Mixamo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.26-01.19.38:434][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.26-01.19.38:460][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.26-01.19.38:460][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.26-01.19.38:461][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.26-01.19.38:500][  0]LogDerivedDataCache: Speed tests for C:/Users/tc_ma/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.08.26-01.19.38:500][  0]LogDerivedDataCache: Display: Performance to C:/Users/tc_ma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=27.43MBs, RandomWriteSpeed=266.72MBs. Assigned SpeedClass 'Local'
+[2022.08.26-01.19.38:502][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tc_ma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.26-01.19.38:502][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.26-01.19.38:502][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.26-01.19.38:506][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.26-01.19.38:506][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.26-01.19.38:515][  0]LogShaderCompilers: Guid format shader working directory is 33 characters bigger than the processId version (D:/UE5_Mixamo/Intermediate/Shaders/WorkingDirectory/8892/).
+[2022.08.26-01.19.38:515][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tc_ma/AppData/Local/Temp/UnrealShaderWorkingDir/9F6E6BB642795FD70CC34BBA0987DC91/'.
+[2022.08.26-01.19.38:515][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.26-01.19.38:515][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 10 workers.
+[2022.08.26-01.19.42:316][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.26-01.19.42:330][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.26-01.19.42:388][  0]LogAssetRegistry: FAssetRegistry took 0.0137 seconds to start up
+[2022.08.26-01.19.42:392][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.26-01.19.42:622][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.26-01.19.42:629][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.26-01.19.42:810][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.26-01.19.42:810][  0]LogDeviceProfileManager: Active device profile: [00000BEF512D6C80][00000BEF51565000 50] WindowsEditor
+[2022.08.26-01.19.42:810][  0]LogDeviceProfileManager: Profiles: [00000BEF512D6740][00000BEF51562800 50] Windows, [00000BEF512D6C80][00000BEF51565000 50] WindowsEditor, [00000BEF512D2D80][00000BEF51567800 50] WindowsServer, [00000BEF512D2BC0][00000BEF47767800 50] WindowsClient, [00000BEF512D4600][00000BEF51560000 50] IOS, [00000BEF512D5080][00000BEF5156A000 50] iPadAir2, [00000BEF512D7380][00000BEF515A2800 50] IPadPro, [00000BEF512D7700][00000BEF515A5000 50] iPadAir3, [00000BEF512D55C0][00000BEF515A7800 50] iPadAir4, [00000BEF512D2140][00000BEF5156C800 50] iPadMini4, [00000BEF512D7540][00000BEF36600000 50] iPadMini5, [00000BEF512D2F40][00000BEF515AA000 50] iPadMini6, [00000BEF512D9F40][00000BEF515E2800 50] iPhone6S, [00000BEF512DA2C0][00000BEF515E0000 50] iPhone7, [00000BEF512DA640][00000BEF515E5000 50] iPodTouch7, [00000BEF512D3D40][00000BEF515A0000 50] iPhone6SPlus, [00000BEF512D9BC0][00000BEF515EA000 50] iPhone7Plus, [00000BEF512D7A80][00000BEF515EC800 50] iPhoneSE, [00000BEF512D7000][00000BEF515B2800 50] iPhone8, [00000BEF512D71C0][00000BEF515B0000 50] iPhone8Plus, [00000BEF512DA100][00000BEF515BA000 50] iPhoneX, [00000BEF512D63C0][00000BEF515E7800 50] iPhoneXS, [00000BEF512D4D00][00000BEF47760000 50] iPhoneXSMax, [00000BEF512D9A00][00000BEF515B7800 50] iPhoneXR, [00000BEF512D9300][00000BEF515C2800 50] iPhone11, [00000BEF512D2300][00000BEF515C0000 50] iPhone11Pro, [00000BEF512D4EC0][00000BEF515CA000 50] iPhone11ProMax, [00000BEF512D5240][00000BEF515B5000 50] iPhoneSE2, [00000BEF512D8DC0][00000BEF515C5000 50] iPhone12Mini, [00000BEF512D6580][00000BEF515C7800 50] iPhone12, [00000BEF512D39C0][00000BEF515D2800 50] iPhone12Pro, [00000BEF512D3480][00000BEF515D0000 50] iPhone12ProMax, [00000BEF512D8880][00000BEF515DA000 50] iPhone13Mini, [00000BEF512DA480][00000BEF515CC800 50] iPhone13, [00000BEF512D3640][00000BEF515AC800 50] iPhone13Pro, [00000BEF512D4280][00000BEF515D7800 50] iPhone13ProMax, [00000BEF512D5400][00000BEF515F2800 50] iPadPro105, [00000BEF512D8340][00000BEF515F0000 50] iPadPro129, [00000BEF512DA800][00000BEF515FA000 50] iPadPro97, [00000BEF512D9840][00000BEF515D5000 50] iPadPro2_129, [00000BEF512D5CC0][00000BEF515F5000 50] iPad5, [00000BEF512D6E40][00000BEF515F7800 50] iPad6, [00000BEF512D7FC0][00000BEF51602800 50] iPad7, [00000BEF512D9680][00000BEF51600000 50] iPad8, [00000BEF512D8500][00000BEF5160A000 50] iPad9, [00000BEF512D7E00][00000BEF515FC800 50] iPadPro11, [00000BEF512D78C0][00000BEF515BC800 50] iPadPro2_11, [00000BEF512D8C00][00000BEF51607800 50] iPadPro3_11, [00000BEF512DA9C0][00000BEF51612800 50] iPadPro3_129, [00000BEF512D6040][00000BEF51610000 50] iPadPro4_129, [00000BEF512D6200][00000BEF5161A000 50] iPadPro5_129, [00000BEF512D5940][00000BEF51605000 50] AppleTV, [00000BEF512D5780][00000BEF51615000 50] AppleTV4K, [00000BEF512D9140][00000BEF51617800 50] TVOS, [00000BEF512DC940][00000BEF51622800 50] Mac, [00000BEF512DC780][00000BEF51625000 50] MacEditor, [00000BEF512D8F80][00000BEF51627800 50] MacClient, [00000BEF512DCB00][00000BEF5161C800 50] MacServer, [00000BEF512DCE80][00000BEF51635000 50] Linux, [00000BEF512DD200][00000BEF51630000 50] LinuxEditor, [00000BEF512DB440][00000BEF51632800 50] LinuxArm64Editor, [00000BEF512DD040][00000BEF5162C800 50] LinuxArm64, [00000BEF512DAF00][00000BEF5163C800 50] LinuxClient, [00000BEF512DBD00][00000BEF51620000 50] LinuxArm64Client, [00000BEF512DBB40][00000BEF5162A000 50] LinuxServer, [00000BEF512DCCC0][00000BEF5163A000 50] LinuxArm64Server, [00000BEF512D4980][00000BEF51642800 50] Android, [00000BEF512D2A00][00000BEF51640000 50] Android_Preview_OpenGL, [00000BEF512D3800][00000BEF5164A000 50] Android_Preview_Vulkan, [00000BEF512D9D80][00000BEF51637800 50] Android_Low, [00000BEF512DC400][00000BEF5160C800 50] Android_Mid, [00000BEF512DB0C0][00000BEF51647800 50] Android_High, [00000BEF512DAD40][00000BEF51652800 50] Android_Default, [00000BEF512D1F80][00000BEF51650000 50] Android_Adreno4xx, [00000BEF512DC240][00000BEF5165A000 50] Android_Adreno5xx_Low, [00000BEF512D6AC0][00000BEF51645000 50] Android_Adreno5xx, [00000BEF512DB600][00000BEF51655000 50] Android_Adreno6xx, [00000BEF512D5B00][00000BEF51657800 50] Android_Adreno6xx_Vulkan, [00000BEF512D5E80][00000BEF51662800 50] Android_Adreno7xx, [00000BEF512DB7C0][00000BEF51660000 50] Android_Adreno7xx_Vulkan, [00000BEF512D86C0][00000BEF5166A000 50] Android_Mali_T6xx, [00000BEF512DB280][00000BEF5165C800 50] Android_Mali_T7xx, [00000BEF512D32C0][00000BEF515DC800 50] Android_Mali_T8xx, [00000BEF512D40C0][00000BEF51667800 50] Android_Mali_G71, [00000BEF512DD900][00000BEF51672800 50] Android_Mali_G72, [00000BEF512D3100][00000BEF51670000 50] Android_Mali_G72_Vulkan, [00000BEF512DE380][00000BEF5167A000 50] Android_Mali_G76, [00000BEF512D47C0][00000BEF51665000 50] Android_Mali_G76_Vulkan, [00000BEF512D4440][00000BEF51675000 50] Android_Mali_G77, [00000BEF512D3F00][00000BEF51677800 50] Android_Mali_G77_Vulkan, [00000BEF512DE540][00000BEF51682800 50] Android_Mali_G78, [00000BEF512D8A40][00000BEF51680000 50] Android_Mali_G78_Vulkan, [00000BEF512DC080][00000BEF5168A000 50] Android_Mali_G710, [00000BEF512DEC40][00000BEF5167C800 50] Android_Mali_G710_Vulkan, [00000BEF512DE700][00000BEF5164C800 50] Android_Xclipse_920, [00000BEF512DF500][00000BEF51687800 50] Android_Xclipse_920_Vulkan, [00000BEF512D94C0][00000BEF51692800 50] Android_Vulkan_SM5, [00000BEF512DC5C0][00000BEF51690000 50] Android_PowerVR_G6xxx, [00000BEF512D4B40][00000BEF5169A000 50] Android_PowerVR_GT7xxx, [00000BEF512DF880][00000BEF51685000 50] Android_PowerVR_GE8xxx, [00000BEF512DE000][00000BEF51695000 50] Android_PowerVR_GM9xxx, [00000BEF512DEE00][00000BEF51697800 50] Android_PowerVR_GM9xxx_Vulkan, [00000BEF512DEA80][00000BEF516A2800 50] Android_TegraK1, [00000BEF512DFC00][00000BEF516A0000 50] Android_Unknown_Vulkan, [00000BEF512DF340][00000BEF516AA000 50] Oculus_Quest, [00000BEF516B2300][00000BEF5169C800 50] Oculus_Quest2, [00000BEF516B0540][00000BEF5166C800 50] HoloLens, 
+[2022.08.26-01.19.42:810][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.26-01.19.42:923][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.26-01.19.43:311][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.26-01.19.43:311][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.26-01.19.43:311][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.26-01.19.43:311][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.26-01.19.43:312][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.26-01.19.43:383][  0]LogNetVersion: UE5_Mixamo 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1090552637)
+[2022.08.26-01.19.43:795][  0]LogSlate: Border
+[2022.08.26-01.19.43:795][  0]LogSlate: BreadcrumbButton
+[2022.08.26-01.19.43:795][  0]LogSlate: Default
+[2022.08.26-01.19.43:795][  0]LogSlate: Icons.Save
+[2022.08.26-01.19.43:795][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.26-01.19.43:795][  0]LogSlate: ListView
+[2022.08.26-01.19.43:795][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.26-01.19.43:795][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.26-01.19.43:795][  0]LogSlate: TableView.DarkRow
+[2022.08.26-01.19.43:795][  0]LogSlate: TableView.Row
+[2022.08.26-01.19.43:795][  0]LogSlate: TreeView
+[2022.08.26-01.19.44:267][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.44:346][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.44:346][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.44:547][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.26-01.19.44:547][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.26-01.19.44:547][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.26-01.19.45:358][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 2D2187F4470B27A768FBB18D364DFEEA | Instance: D2A182DE46B9FE0FE00773A245FF0E39 (DESKTOP-NGK9C6K-8892).
+[2022.08.26-01.19.46:441][  0]LogPython: Using Python 3.9.7
+[2022.08.26-01.19.47:633][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.26-01.19.47:657][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.26-01.19.49:332][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.26-01.19.49:385][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.49:404][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.49:448][  0]LogUProjectInfo: Found projects:
+[2022.08.26-01.19.49:487][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.49:666][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.26-01.19.49:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.26-01.19.49:763][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.26-01.19.50:160][  0]LogCollectionManager: Loaded 0 collections in 0.002219 seconds
+[2022.08.26-01.19.50:487][  0]LogFileCache: Scanning file cache for directory 'D:/UE5_Mixamo/Saved/Collections/' took 0.00s
+[2022.08.26-01.19.50:487][  0]LogFileCache: Scanning file cache for directory 'D:/UE5_Mixamo/Content/Developers/tcma/Collections/' took 0.00s
+[2022.08.26-01.19.50:487][  0]LogFileCache: Scanning file cache for directory 'D:/UE5_Mixamo/Content/Collections/' took 0.00s
+[2022.08.26-01.19.50:853][  0]LogEngine: Initializing Engine...
+[2022.08.26-01.19.50:873][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.26-01.19.50:886][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.08.26-01.19.51:302][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.26-01.19.51:306][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.26-01.19.51:341][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.26-01.19.51:403][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.26-01.19.51:422][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.26-01.19.51:468][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.26-01.19.51:472][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.26-01.19.51:472][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.26-01.19.51:475][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.26-01.19.51:475][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.26-01.19.51:476][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.26-01.19.51:477][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.26-01.19.51:478][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.26-01.19.51:478][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.26-01.19.51:478][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.26-01.19.51:520][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.26-01.19.51:574][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.26-01.19.51:576][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.26-01.19.51:591][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.26-01.19.51:592][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.26-01.19.51:594][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.26-01.19.51:594][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.26-01.19.51:595][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.26-01.19.51:595][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.26-01.19.51:595][  0]LogInit: FAudioDevice initialized.
+[2022.08.26-01.19.51:595][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.26-01.19.51:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.26-01.19.51:596][  0]LogInit: Texture streaming: Enabled
+[2022.08.26-01.19.51:665][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.26-01.19.51:684][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.26-01.19.51:684][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DC8AFB88-40A2-DADC-F057-F58918F13BAC}
+[2022.08.26-01.19.51:724][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.26-01.19.51:749][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.26-01.19.51:749][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.26-01.19.53:505][  0]LogLiveCoding: Display: First instance in process group "UE_UE5_Mixamo_0xddb42538", spawning console
+[2022.08.26-01.19.53:505][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.26-01.19.53:505][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.26-01.19.53:526][  0]LogInit: Transaction tracking system initialized
+[2022.08.26-01.19.53:661][  0]BlueprintLog: New page: Editor Load
+[2022.08.26-01.19.54:114][  0]LocalizationService: Localization service is disabled
+[2022.08.26-01.19.54:209][  0]TimingProfiler: Initialize
+[2022.08.26-01.19.54:209][  0]TimingProfiler: OnSessionChanged
+[2022.08.26-01.19.54:210][  0]LoadingProfiler: Initialize
+[2022.08.26-01.19.54:210][  0]LoadingProfiler: OnSessionChanged
+[2022.08.26-01.19.54:212][  0]NetworkingProfiler: Initialize
+[2022.08.26-01.19.54:214][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.26-01.19.54:214][  0]MemoryProfiler: Initialize
+[2022.08.26-01.19.54:214][  0]MemoryProfiler: OnSessionChanged
+[2022.08.26-01.19.55:694][  0]LogFileCache: Scanning file cache for directory 'D:/UE5_Mixamo/Content/' took 0.01s
+[2022.08.26-01.19.55:694][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.26-01.19.55:863][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.26-01.19.55:869][  0]SourceControl: Source control is disabled
+[2022.08.26-01.19.55:870][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.674
+[2022.08.26-01.19.55:873][  0]Cmd: MAP LOAD FILE="D:/UE5_Mixamo/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.26-01.19.55:878][  0]LightingResults: New page: Lighting Build
+[2022.08.26-01.19.55:888][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.26-01.19.55:891][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-01.19.55:892][  0]MapCheck: New page: Map Check
+[2022.08.26-01.19.55:892][  0]LightingResults: New page: Lighting Build
+[2022.08.26-01.19.55:907][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.26-01.19.55:917][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.08.26-01.19.57:124][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.08.26-01.19.57:135][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.26-01.19.57:136][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.08.26-01.19.57:139][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.26-01.19.57:139][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.26-01.19.57:547][  0]LogWorldPartition: Display: WorldPartition initialize took 408 ms
+[2022.08.26-01.19.57:582][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.26-01.19.57:593][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.26-01.19.57:594][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.26-01.19.57:595][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.591ms to complete.
+[2022.08.26-01.19.57:595][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 1.723
+[2022.08.26-01.19.57:640][  0]LogUnrealEdMisc: Total Editor Startup Time, took 27.444
+[2022.08.26-01.19.57:640][  0]LogShaderCompilers: Display: ================================================
+[2022.08.26-01.19.57:640][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.26-01.19.57:640][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.26-01.19.57:641][  0]LogShaderCompilers: Display: ================================================
+[2022.08.26-01.19.57:779][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-01.19.57:785][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-01.19.57:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-01.19.57:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.26-01.19.57:854][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:855][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:862][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:862][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:867][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:867][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:872][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:872][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:885][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:885][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:891][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:891][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:897][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:897][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:901][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:901][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:906][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:906][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:910][  0]LogPakFile: Display: Mounted Pak file 'C:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.26-01.19.57:910][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.26-01.19.57:910][  0]LogFeaturePack: Error: Error in Feature pack C:/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.26-01.19.58:390][  0]LogSlate: Took 0.004840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.26-01.19.58:399][  0]LogSlate: Took 0.003969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.26-01.19.58:404][  0]LogSlate: Took 0.003977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.26-01.19.58:409][  0]LogSlate: Took 0.004020 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.26-01.19.58:414][  0]LogSlate: Took 0.004635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.26-01.19.58:437][  0]LogViewport: Scene viewport resized to 1476x467, mode Windowed.
+[2022.08.26-01.19.58:501][  0]LogSlate: Took 0.004994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.26-01.19.58:886][  0]LogStall: Startup...
+[2022.08.26-01.19.58:888][  0]LogStall: Startup complete.
+[2022.08.26-01.19.58:931][  0]LogLoad: (Engine Initialization) Total time: 28.74 seconds
+[2022.08.26-01.19.58:931][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.26-01.19.59:065][  0]LogAssetRegistry: Asset discovery search completed in 16.6788 seconds
+[2022.08.26-01.19.59:083][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.08.26-01.19.59:085][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.08.26-01.19.59:785][ 29]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (SKM_Quinn_Simple) ...
+[2022.08.26-01.22.11:014][376]LogDerivedDataCache: C:/Users/tc_ma/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:32.512 and deleted 4483 file(s) with total size 1135 MiB.
+[2022.08.26-01.41.38:490][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\Zombiegirl W Kurniawan.fbx)
+[2022.08.26-01.41.38:548][905]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\Zombiegirl W Kurniawan.fbx
+[2022.08.26-01.41.38:600][905]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.41.49:312][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.26-01.41.49:335][905]LogFbx: Valid bind pose for Pose (skinCluster4) - ZombieGirl_Body
+[2022.08.26-01.41.49:335][905]LogFbx: Valid bind pose for Pose (skinCluster5) - ZombieGirl_Body
+[2022.08.26-01.41.49:336][905]LogFbx: Valid bind pose for Pose (skinCluster6) - ZombieGirl_Body
+[2022.08.26-01.41.49:341][905]LogMaterial: Display: Material /Game/DirectMixamo/ZombieGirl_body_Material.ZombieGirl_body_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2022.08.26-01.41.49:344][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 4821C62E1B58CAC1437F23A668D60680AE0A3B7F), compiling. 
+[2022.08.26-01.41.49:526][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_body_diffuse.zombie_body_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.49:766][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.49:766][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.49:771][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_body_Material in PCD3D_SM5, Default, SM5 (DDC key hash: E75BCF95137D37ED45980463CF5ECF49349910DA), compiling. 
+[2022.08.26-01.41.49:776][905]LogMaterial: Display: Material /Game/DirectMixamo/ZombieGirl_Material.ZombieGirl_Material needed to have new flag set bUsedWithSkeletalMesh !
+[2022.08.26-01.41.49:779][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: BCE0D6AE9B2926285721D30EE15387A74F3B1460), compiling. 
+[2022.08.26-01.41.49:961][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:061][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:061][905]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2022.08.26-01.41.50:202][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:347][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:354][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 847A929BF4AC196447FDE015684F6149F883F2D3), compiling. 
+[2022.08.26-01.41.50:360][905]LogMaterial: Display: Material /Game/DirectMixamo/ZombieGirl_Material_ncl1_1.ZombieGirl_Material_ncl1_1 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.08.26-01.41.50:366][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AC1A5B973B8744ACDCA2706BEE005824C74102E4), compiling. 
+[2022.08.26-01.41.50:636][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:759][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_specular.zombie_specular (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.50:759][905]LogFbxMaterialImport: Warning: Manual texture reimport and recompression may be needed for zombie_normal
+[2022.08.26-01.41.50:959][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_normal.zombie_normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.51:139][905]LogTexture: Display: Building textures: /Game/DirectMixamo/zombie_diffuse.zombie_diffuse (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.08.26-01.41.51:148][905]LogMaterial: Display: Missing cached shadermap for ZombieGirl_Material_ncl1_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 89C53303D2D023167FB55CE6BB9433E90BD2C3A4), compiling. 
+[2022.08.26-01.41.51:154][905]LogFbx: Triangulating skeletal mesh ZombieGirl_Body
+[2022.08.26-01.41.51:295][905]LogFbx: Triangulating skeletal mesh ZombieGirl_Top
+[2022.08.26-01.41.51:318][905]LogFbx: Triangulating skeletal mesh ZombieGirl_Pants
+[2022.08.26-01.41.51:344][905]LogFbx: Warning: Bones digested - 63  Depth of hierarchy - 12
+[2022.08.26-01.41.51:560][905]LogSkeletalMesh: Section 0: Material=0, 6848 triangles
+[2022.08.26-01.41.51:560][905]LogSkeletalMesh: Section 1: Material=1, 566 triangles
+[2022.08.26-01.41.51:560][905]LogSkeletalMesh: Section 2: Material=2, 34 triangles
+[2022.08.26-01.41.51:613][905]LogSkeletalMesh: Building Skeletal Mesh Zombiegirl_W_Kurniawan...
+[2022.08.26-01.41.51:613][905]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (Zombiegirl_W_Kurniawan) ...
+[2022.08.26-01.41.51:775][905]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/DirectMixamo/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2022.08.26-01.41.51:775][905]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.26-01.41.51:813][905]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.26-01.41.51:814][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-01.41.51:824][905]FBXImport: FBX Scene Loading: Found material name clash, name clash can be wrongly reassign at reimport , material 'ZombieGirl_Material' was renamed 'ZombieGirl_Material_ncl1_1' 
+[2022.08.26-01.41.51:824][905]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: ================================================
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: Total job queries 96, among them cache hits 0 (0.00%)
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 3276.80 MB (3.20 GB) budget. Usage: 0.00%
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: Shaders Compiled: 96
+[2022.08.26-01.41.54:255][ 67]LogShaderCompilers: Display: Jobs assigned 40, completed 4 (10.00%)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.10 s
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Job execution time: average 4.73 s, max 4.73 s
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Job life time (pending + execution): average 4.83 s, max 4.83
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.83 s
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 4.00 jobs/batch
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Average processing rate: 0.83 jobs/sec
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 29.40% of total time (compiled    1 times, average 1.13 sec, max 1.13 sec, min 1.13 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 28.58% of total time (compiled    1 times, average 1.10 sec, max 1.10 sec, min 1.10 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.25% of total time (compiled    1 times, average 1.09 sec, max 1.09 sec, min 1.09 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.77% of total time (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2022.08.26-01.41.54:256][ 67]LogShaderCompilers: Display: ================================================
+[2022.08.26-01.41.59:505][595]LogSlate: Window 'Message Log' being destroyed
+[2022.08.26-01.41.59:508][595]LogSlate: Window 'Message Log' being destroyed
+[2022.08.26-01.42.01:021][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.08.26-01.42.01:022][767]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.012
+[2022.08.26-01.42.01:023][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan] ([1] browsable assets)...
+[2022.08.26-01.42.01:028][767]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/DirectMixamo/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan]
+[2022.08.26-01.42.01:028][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan]
+[2022.08.26-01.42.01:028][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Zombiegirl_W_Kurniawan" FILE="D:/UE5_Mixamo/Saved/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.08.26-01.42.01:033][767]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004126 seconds
+[2022.08.26-01.42.01:048][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Auto1
+[2022.08.26-01.42.01:048][767]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/Zombiegirl_W_Kurniawan_Auto1B223EC4B4C0C370FB3BBC0B92A197175.tmp' to 'D:/UE5_Mixamo/Saved/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Auto1.uasset'
+[2022.08.26-01.42.01:048][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Skeleton] ([1] browsable assets)...
+[2022.08.26-01.42.01:053][767]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/DirectMixamo/Zombiegirl_W_Kurniawan_Skeleton.Zombiegirl_W_Kurniawan_Skeleton]
+[2022.08.26-01.42.01:053][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Skeleton]
+[2022.08.26-01.42.01:060][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Skeleton_Auto1
+[2022.08.26-01.42.01:060][767]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/Zombiegirl_W_Kurniawan_Skeleton_9D089C0841CF2C7382A65F96013AC52F.tmp' to 'D:/UE5_Mixamo/Saved/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_Skeleton_Auto1.uasset'
+[2022.08.26-01.42.01:060][767]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan_PhysicsAsset] ([1] browsable assets)...
+[2022.08.26-01.42.01:064][767]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/DirectMixamo/Zombiegirl_W_Kurniawan_PhysicsAsset.Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2022.08.26-01.42.01:064][767]OBJ SavePackage: Finished generating thumbnails for package [/Game/DirectMixamo/Zombiegirl_W_Kurniawan_PhysicsAsset]
+[2022.08.26-01.42.01:067][767]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto1
+[2022.08.26-01.42.01:067][767]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/Zombiegirl_W_Kurniawan_PhysicsAs95E236674E5361D02E17B089DC34BD28.tmp' to 'D:/UE5_Mixamo/Saved/Autosaves/Game/DirectMixamo/Zombiegirl_W_Kurniawan_PhysicsAsset_Auto1.uasset'
+[2022.08.26-01.42.01:067][767]LogFileHelpers: Auto-saving content packages took 0.045
+[2022.08.26-01.42.02:281][910]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/DirectMixamo/Zombiegirl_W_Kurniawan.Zombiegirl_W_Kurniawan
+[2022.08.26-01.42.02:320][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.26-01.42.02:401][910]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.26-01.42.02:695][910]LogViewport: Scene viewport resized to 1097x866, mode Windowed.
+[2022.08.26-01.42.06:871][338]LogSlate: Window 'Zombiegirl_W_Kurniawan' being destroyed
+[2022.08.26-01.42.06:879][338]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.08.26-01.42.06:879][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.26-01.42.30:229][862]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\running crawl.fbx)
+[2022.08.26-01.42.30:234][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\running crawl.fbx
+[2022.08.26-01.42.30:251][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.42.34:736][862]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.26-01.42.40:094][862]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.42.40:110][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.42.40:111][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.42.40:111][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.42.40:111][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.42.40:111][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.42.40:185][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/running_crawl.running_crawl
+[2022.08.26-01.42.40:185][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie attack.fbx)
+[2022.08.26-01.42.40:192][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie attack.fbx
+[2022.08.26-01.42.40:210][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.42.40:211][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.42.40:212][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.42.40:213][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.42.40:420][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_attack.zombie_attack
+[2022.08.26-01.42.40:420][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie biting (2).fbx)
+[2022.08.26-01.42.40:426][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie biting (2).fbx
+[2022.08.26-01.42.40:444][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.42.40:445][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.42.40:445][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.42.40:445][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.42.40:446][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.42.40:447][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.42.40:634][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie biting.fbx)
+[2022.08.26-01.42.40:640][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie biting.fbx
+[2022.08.26-01.42.40:663][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.42.40:664][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.42.40:664][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.42.40:664][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.42.40:665][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.42.40:667][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.42.41:168][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie crawl.fbx)
+[2022.08.26-01.42.41:174][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie crawl.fbx
+[2022.08.26-01.42.41:196][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.42.41:197][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.42.41:198][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.42.41:200][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.04:772][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_biting.zombie_biting
+[2022.08.26-01.43.04:772][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_crawl.zombie_crawl
+[2022.08.26-01.43.04:772][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_biting__2_.zombie_biting__2_
+[2022.08.26-01.43.04:780][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie death.fbx)
+[2022.08.26-01.43.04:789][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie death.fbx
+[2022.08.26-01.43.04:815][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.04:817][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.04:818][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.04:820][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.05:099][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie dying.fbx)
+[2022.08.26-01.43.05:107][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie dying.fbx
+[2022.08.26-01.43.05:129][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.05:130][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.05:131][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.05:132][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.05:438][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie idle.fbx)
+[2022.08.26-01.43.05:446][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie idle.fbx
+[2022.08.26-01.43.05:468][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.05:469][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.05:470][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.05:470][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.05:854][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie neck bite.fbx)
+[2022.08.26-01.43.05:862][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie neck bite.fbx
+[2022.08.26-01.43.05:883][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.05:884][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.05:885][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.05:887][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.06:249][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie run.fbx)
+[2022.08.26-01.43.06:255][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie run.fbx
+[2022.08.26-01.43.06:273][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.06:275][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.06:276][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.06:367][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie scream.fbx)
+[2022.08.26-01.43.06:374][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie scream.fbx
+[2022.08.26-01.43.06:395][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.06:397][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.06:399][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.06:651][862]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\Downloads\mixamo_Zombie\zombie walk.fbx)
+[2022.08.26-01.43.06:659][862]LogFbx: Loading FBX Scene from D:\Downloads\mixamo_Zombie\zombie walk.fbx
+[2022.08.26-01.43.06:683][862]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(0) Hips
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(1) Spine
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(2) Spine1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(3) Spine2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(4) Neck
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(5) Head
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(7) LeftEye
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(8) RightEye
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(9) LeftShoulder
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(10) LeftArm
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(11) LeftForeArm
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(12) LeftHand
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(25) LeftHandRing1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(26) LeftHandRing2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(27) LeftHandRing3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(28) LeftHandRing4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(33) RightShoulder
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(34) RightArm
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(35) RightForeArm
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(36) RightHand
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(37) RightHandThumb1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(38) RightHandThumb2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(39) RightHandThumb3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(40) RightHandThumb4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(41) RightHandIndex1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(42) RightHandIndex2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(43) RightHandIndex3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(44) RightHandIndex4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(45) RightHandRing1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(46) RightHandRing2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(47) RightHandRing3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(48) RightHandRing4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(49) RightHandPinky1
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(50) RightHandPinky2
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(51) RightHandPinky3
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(52) RightHandPinky4
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(53) LeftUpLeg
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(54) LeftLeg
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(55) LeftFoot
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(56) LeftToeBase
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(57) LeftToe_End
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(58) RightUpLeg
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(59) RightLeg
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(60) RightFoot
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(61) RightToeBase
+[2022.08.26-01.43.06:684][862]LogFbx: SortedLinks :(62) RightToe_End
+[2022.08.26-01.43.06:685][862]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_scream.zombie_scream
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_walk.zombie_walk
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_run.zombie_run
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_neck_bite.zombie_neck_bite
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_idle.zombie_idle
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_dying.zombie_dying
+[2022.08.26-01.43.07:082][862]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/DirectMixamo/Animations/zombie_death.zombie_death
+[2022.08.26-01.43.09:856][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.08.26-01.43.11:278][120]LogSlate: Window 'Save Content' being destroyed
+[2022.08.26-01.43.11:348][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/running_crawl" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/running_crawl.uasset" SILENT=true
+[2022.08.26-01.43.11:353][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/running_crawl
+[2022.08.26-01.43.11:353][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/running_crawlBE6BC4FB4C940D84625D959F25ABCBB5.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/running_crawl.uasset'
+[2022.08.26-01.43.11:358][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_attack" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_attack.uasset" SILENT=true
+[2022.08.26-01.43.11:376][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_attack
+[2022.08.26-01.43.11:376][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_attack1BDB53174F083C580F40FEB4D87B5FFD.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_attack.uasset'
+[2022.08.26-01.43.11:381][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_biting" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_biting.uasset" SILENT=true
+[2022.08.26-01.43.11:403][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_biting
+[2022.08.26-01.43.11:403][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_biting8071E82648E0E7E5AC172CAA98A65E40.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_biting.uasset'
+[2022.08.26-01.43.11:408][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_biting__2_" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_biting__2_.uasset" SILENT=true
+[2022.08.26-01.43.11:417][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_biting__2_
+[2022.08.26-01.43.11:417][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_biting__2_C94C492D4AAAE4147ED13788D6863FBC.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_biting__2_.uasset'
+[2022.08.26-01.43.11:419][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/zombie_body_diffuse" FILE="D:/UE5_Mixamo/Content/DirectMixamo/zombie_body_diffuse.uasset" SILENT=true
+[2022.08.26-01.43.11:709][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/zombie_body_diffuse
+[2022.08.26-01.43.11:709][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_body_diffuse893395924B25DC070AEC7DA2EB5E40A3.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/zombie_body_diffuse.uasset'
+[2022.08.26-01.43.11:714][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_crawl" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_crawl.uasset" SILENT=true
+[2022.08.26-01.43.12:615][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_crawl
+[2022.08.26-01.43.12:615][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_crawl91E503274A3D818065883A92736D3554.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_crawl.uasset'
+[2022.08.26-01.43.12:621][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_death" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_death.uasset" SILENT=true
+[2022.08.26-01.43.12:631][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_death
+[2022.08.26-01.43.12:631][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_deathBD4DFA064FFF7160F0CF4CB684639CBE.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_death.uasset'
+[2022.08.26-01.43.12:641][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/zombie_diffuse" FILE="D:/UE5_Mixamo/Content/DirectMixamo/zombie_diffuse.uasset" SILENT=true
+[2022.08.26-01.43.12:939][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/zombie_diffuse
+[2022.08.26-01.43.12:939][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_diffuse9CE2721E4DD7AE54A78E648B11621B2D.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/zombie_diffuse.uasset'
+[2022.08.26-01.43.12:944][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_dying" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_dying.uasset" SILENT=true
+[2022.08.26-01.43.12:955][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_dying
+[2022.08.26-01.43.12:955][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_dying57299824406E88A101A4E7835B64B8CF.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_dying.uasset'
+[2022.08.26-01.43.12:960][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_idle" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_idle.uasset" SILENT=true
+[2022.08.26-01.43.12:973][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_idle
+[2022.08.26-01.43.12:973][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_idleB1B33E634B182B63E242EA82C9C2DD15.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_idle.uasset'
+[2022.08.26-01.43.12:978][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_neck_bite" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_neck_bite.uasset" SILENT=true
+[2022.08.26-01.43.12:990][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_neck_bite
+[2022.08.26-01.43.12:990][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_neck_bite65477DC041B7D925D22CFE882A888D55.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_neck_bite.uasset'
+[2022.08.26-01.43.12:992][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/zombie_normal" FILE="D:/UE5_Mixamo/Content/DirectMixamo/zombie_normal.uasset" SILENT=true
+[2022.08.26-01.43.13:323][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/zombie_normal
+[2022.08.26-01.43.13:323][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_normal1BD2D7DA43A2C095520247B340682E1F.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/zombie_normal.uasset'
+[2022.08.26-01.43.13:328][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_run" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_run.uasset" SILENT=true
+[2022.08.26-01.43.13:333][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_run
+[2022.08.26-01.43.13:333][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_run91274A0D4520D8D42B206CABCEB3805D.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_run.uasset'
+[2022.08.26-01.43.13:338][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_scream" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_scream.uasset" SILENT=true
+[2022.08.26-01.43.13:348][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_scream
+[2022.08.26-01.43.13:348][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_scream6EC429F04A9E7168687D4FB75F90E39F.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_scream.uasset'
+[2022.08.26-01.43.13:350][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/zombie_specular" FILE="D:/UE5_Mixamo/Content/DirectMixamo/zombie_specular.uasset" SILENT=true
+[2022.08.26-01.43.13:576][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/zombie_specular
+[2022.08.26-01.43.13:576][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_specularC5A459FC44DF3BBD2312618CA35EBBAF.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/zombie_specular.uasset'
+[2022.08.26-01.43.13:582][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DirectMixamo/Animations/zombie_walk" FILE="D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_walk.uasset" SILENT=true
+[2022.08.26-01.43.13:594][120]LogSavePackage: Moving output files for package: /Game/DirectMixamo/Animations/zombie_walk
+[2022.08.26-01.43.13:594][120]LogSavePackage: Moving 'D:/UE5_Mixamo/Saved/zombie_walk1A2036284FFACD9E28BF51ACB77874CF.tmp' to 'D:/UE5_Mixamo/Content/DirectMixamo/Animations/zombie_walk.uasset'
